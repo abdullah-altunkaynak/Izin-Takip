@@ -1,0 +1,6 @@
+@IzinTakip.Api_HostAddress = http://localhost:5276
+
+GET {{IzinTakip.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

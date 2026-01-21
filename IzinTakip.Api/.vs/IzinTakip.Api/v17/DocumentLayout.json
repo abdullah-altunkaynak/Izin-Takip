@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\case study belgeleri\\IzinTakip.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0006CC-CBF4-4846-A606-142F14DCA81A}|IzinTakip.Api.csproj|c:\\users\\pc\\desktop\\case study belgeleri\\izintakip.api\\controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0006CC-CBF4-4846-A606-142F14DCA81A}|IzinTakip.Api.csproj|solutionrelative:controllers\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0006CC-CBF4-4846-A606-142F14DCA81A}|IzinTakip.Api.csproj|c:\\users\\pc\\desktop\\case study belgeleri\\izintakip.api\\models\\dtos\\myleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0006CC-CBF4-4846-A606-142F14DCA81A}|IzinTakip.Api.csproj|solutionrelative:models\\dtos\\myleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\case study belgeleri\\IzinTakip.Api\\Models\\Dtos\\MyLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\MyLeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\case study belgeleri\\IzinTakip.Api\\Models\\Dtos\\MyLeaveRequestDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\MyLeaveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:18:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\case study belgeleri\\IzinTakip.Api\\Controllers\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\case study belgeleri\\IzinTakip.Api\\Controllers\\LeaveRequestsController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wHwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:45:47.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
