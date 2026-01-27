@@ -1,5 +1,6 @@
 # <h1>Izin-Takip</h1>
 Modern bir izin talep ve onay yönetim sistemi. Mobil (Flutter) + Backend (.NET Web API Cloud Azure) + Cloud DB(MSSQL) mimarisiyle geliştirilmiştir.  Bu proje bir case study olarak tasarlanmış olup, gerçek hayattaki bir şirket senaryosunu uçtan uca ele alır.
+<p> <strong>Dikkat !!! API Cloud ve Cloud Db kapatılmıştır. !!! </strong></p>
 <p> <strong>Dikkat !!! Api Cloud öğrenci kimliğiyle ücretsiz oluşturulduğundan uygulamaya ilk girişte Api uyku modunda olabilir uygulamayı kapa aç yapıp tekrar giriş yapmalısınız. !!! </strong></p>
 
 Proje Amacı
